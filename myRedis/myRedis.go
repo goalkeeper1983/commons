@@ -1,7 +1,7 @@
 package myRedis
 
 import (
-	"commons/tools"
+	"github.com/goalkeeper1983/commons/tools"
 
 	"github.com/go-redis/redis"
 )

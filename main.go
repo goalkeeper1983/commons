@@ -1,6 +1,6 @@
 package main
 
-import "commons/tools"
+import "github.com/goalkeeper1983/commons/tools"
 
 func main() {
 	tools.Log.Info("111")

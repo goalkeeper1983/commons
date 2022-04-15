@@ -1,9 +1,9 @@
 package myDb
 
 import (
-	"commons/nError"
-	"commons/tools"
 	"fmt"
+	"github.com/goalkeeper1983/commons/nError"
+	"github.com/goalkeeper1983/commons/tools"
 	"sync"
 
 	"github.com/jinzhu/gorm"

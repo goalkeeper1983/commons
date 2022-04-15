@@ -1,4 +1,4 @@
-module commons
+module github.com/goalkeeper1983/commons
 
 go 1.18
 
